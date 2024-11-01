@@ -1,0 +1,5 @@
+<?
+
+$to = "hallinznxz@yandex.ru";
+
+?>
